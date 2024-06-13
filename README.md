@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500"></p>
 <h3 align="center">
         <samp> Hello there, welcome to my profile, I'm
-                <b><a target="_blank" href="https://www.linkedin.com/in/cintia-estefania-nu%C3%B1ez-valdovinos-21a457218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Cindy Nuñez</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/cintia-estefania-nu%C3%B1ez-valdovinos-21a457218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">💙Cindy Nuñez💙</a></b>
         </samp>
 </h3>
 
